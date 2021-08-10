@@ -8,6 +8,6 @@
 - 🦾 My toolbox VsCode , xampp , postmon
 - 😎 Proffesion Web developer (fullstack)
 - 💬 Ask me about Anything 🤭
-- 📫 How to reach me: via fb
+- 📫 How to reach me: email
 - 😍 Addicted to coding
 - ⚡ hobbies : video game, reading
