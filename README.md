@@ -10,4 +10,4 @@
 - 💬 Ask me about Anything 🤭
 - 📫 How to reach me: email
 - 😍 Addicted to coding
-- ⚡ hobbies : video game, reading
+- ⚡ hobbies : video game, reading , coding
