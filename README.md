@@ -1,4 +1,4 @@
-### Salve, quam vos 👋
+### Ayubowan! 🙏
 
 ![typing-jim-carrey](https://user-images.githubusercontent.com/26079832/128847692-f6294de5-3241-4579-b595-181273a3515c.gif)
 
