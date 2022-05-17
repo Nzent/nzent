@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alpinejs/alpine</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rugged, minimal framework for composing JavaScript behavior in your markup.</div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rough-stuff/rough-notation</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create and animate hand-drawn annotations on a web page</div>
@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prisma-labs/graphql-request</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal GraphQL client supporting Node and browsers for scripts or simple apps</div>
@@ -3037,7 +3037,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2022, 06:05:32 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 08:24:14 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
