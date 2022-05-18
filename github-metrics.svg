@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>heyman333/react-animated-numbers</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👾 Library showing animation of number changes in react.js</div>
@@ -2492,7 +2492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prisma-labs/graphql-request</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal GraphQL client supporting Node and browsers for scripts or simple apps</div>
@@ -3042,7 +3042,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2022, 13:40:14 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 14:37:50 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
