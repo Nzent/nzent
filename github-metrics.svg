@@ -2469,7 +2469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prisma-labs/graphql-request</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal GraphQL client supporting Node and browsers for scripts or simple apps</div>
@@ -3019,7 +3019,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2022, 13:38:50 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 22 May 2022, 14:37:07 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
