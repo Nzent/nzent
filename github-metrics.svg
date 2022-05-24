@@ -2285,7 +2285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>django/django</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Web framework for perfectionists with deadlines.</div>
@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>heyman333/react-animated-numbers</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👾 Library showing animation of number changes in react.js</div>
@@ -2994,7 +2994,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 May 2022, 15:38:16 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 16:36:46 (timezone Asia/Colombo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
