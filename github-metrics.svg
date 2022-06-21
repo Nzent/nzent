@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tibold/svg-explorer-extension</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files</div>
@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>usernamehw/vscode-error-lens</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visual Studio Code extension that enhances display of errors and warnings.</div>
@@ -3016,7 +3016,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jun 2022, 21:41:11 (timezone Asia/Colombo) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 21 Jun 2022, 22:52:07 (timezone Asia/Colombo) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
