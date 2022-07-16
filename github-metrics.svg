@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thebuilder/react-intersection-observer</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.</div>
@@ -3036,7 +3036,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jul 2022, 03:37:35 (timezone Asia/Colombo) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 17 Jul 2022, 04:36:51 (timezone Asia/Colombo) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
