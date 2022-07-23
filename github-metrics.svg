@@ -2327,7 +2327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MetinArslanturk/react-animation-on-scroll</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A react library to animate elements on scroll. It has integration with animate.css. Supports typescript and server side rendering</div>
@@ -3036,7 +3036,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2022, 01:37:44 (timezone Asia/Colombo) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 02:36:30 (timezone Asia/Colombo) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
