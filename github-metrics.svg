@@ -2318,7 +2318,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blender/blender</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official mirror of Blender</div>
@@ -2371,7 +2371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/create-react-app</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Set up a modern web app by running one command.</div>
@@ -2424,7 +2424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1000ship/react-scroll-motion</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎞 Easy to make scroll animation</div>
@@ -3067,7 +3067,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2022, 17:46:50 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Sept 2022, 19:12:35 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
