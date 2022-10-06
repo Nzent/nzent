@@ -2317,7 +2317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>primefaces/primereact</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Most Complete React UI Component Library</div>
@@ -2370,7 +2370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrdoob/three.js</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript 3D Library.</div>
@@ -3066,7 +3066,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Oct 2022, 02:39:02 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 7 Oct 2022, 03:39:12 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
