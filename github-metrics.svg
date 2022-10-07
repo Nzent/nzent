@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            396 Commits
+                            397 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.89733259995936" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="196.89733259995936" y="0" width="159.61651478888243" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="356.5138473888418" y="0" width="41.89775379446699" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="398.41160118330873" y="0" width="23.82548672741778" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="422.23708791072653" y="0" width="20.65369387583186" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="442.89078178655836" y="0" width="6.288879969475786" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="449.17966175603414" y="0" width="5.5229996977310005" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.70266145376513" y="0" width="5.297338546234768" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.18911252595223" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="196.18911252595223" y="0" width="159.18888293657162" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="355.37799546252387" y="0" width="41.74705175142136" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="397.12504721394527" y="0" width="23.739788827143883" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.8648360410891" y="0" width="20.57940459820624" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="441.44424063929534" y="0" width="6.786365846974975" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.23060648627035" y="0" width="6.266259495248981" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="454.4968659815193" y="0" width="5.5031340184807105" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -274,6 +274,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Dart
@@ -283,12 +289,6 @@
                             <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
                     </div>
                 </div>
             </section>
@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keikaavousi/fake-store-api</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data</div>
@@ -3077,7 +3077,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Oct 2022, 23:46:59 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 8 Oct 2022, 00:43:52 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
