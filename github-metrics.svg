@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            431 Commits
+                            433 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.35477774965887" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="221.35477774965887" y="0" width="101.06342906339854" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="322.4182068130574" y="0" width="85.71221464424558" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="408.130421457303" y="0" width="21.505271872452607" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="429.6356933297556" y="0" width="12.22914173585827" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="441.8648350656139" y="0" width="10.601124445693547" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="452.4659595113074" y="0" width="4.306085257959949" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.7720447692674" y="0" width="3.2279552307326447" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.7504751481942" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="221.7504751481942" y="0" width="100.89585589520205" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="322.64633104339623" y="0" width="85.57009530895107" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.2164263523473" y="0" width="21.469614003191776" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="429.6860403555391" y="0" width="12.208864608474078" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="441.89490496401316" y="0" width="10.583546732110369" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="452.47845169612356" y="0" width="4.298945342405056" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.7773970385286" y="0" width="3.222602961471417" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medusajs/medusa</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source Shopify alternative ⚡️</div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cweijan/vscode-database-client</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Database Client For Visual Studio Code</div>
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>excalidraw/excalidraw</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Virtual whiteboard for sketching hand-drawn like diagrams</div>
@@ -3077,7 +3077,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2022, 02:38:49 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 22 Oct 2022, 03:39:13 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
