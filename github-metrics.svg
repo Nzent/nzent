@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            435 Commits
+                            436 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.92940991397302" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="221.92940991397302" y="0" width="100.82007913823311" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="322.7494890522061" y="0" width="85.50582880109002" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="408.2553178532961" y="0" width="21.45348947847169" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="429.7088073317678" y="0" width="12.199695270862591" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="441.90850260263045" y="0" width="10.57559807216321" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="452.48410067479364" y="0" width="4.295716665334587" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.7798173401282" y="0" width="3.220182659871791" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.68749391407496" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="222.68749391407496" y="0" width="100.49903953037524" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="323.1865334444502" y="0" width="85.23355409170178" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.420087536152" y="0" width="21.38517550859364" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="429.80526304474563" y="0" width="12.160847995406945" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="441.96611104015255" y="0" width="10.541922380902399" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="452.50803342105496" y="0" width="4.2820378901789296" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.79007131123393" y="0" width="3.2099286887661096" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medusajs/medusa</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source Shopify alternative ⚡️</div>
@@ -2420,7 +2420,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        642
+                                        643
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3082,7 +3082,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2022, 15:39:06 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 22 Oct 2022, 16:37:32 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
