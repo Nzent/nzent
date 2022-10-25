@@ -2307,7 +2307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medusajs/medusa</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source Shopify alternative ⚡️</div>
@@ -2413,7 +2413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kong/insomnia</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.</div>
@@ -3056,7 +3056,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Oct 2022, 00:04:40 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 26 Oct 2022, 01:02:43 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
