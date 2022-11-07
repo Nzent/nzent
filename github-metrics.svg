@@ -2302,7 +2302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>highlightjs/highlight.js</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript syntax highlighter with language auto-detection and zero dependencies.</div>
@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pocketbase/pocketbase</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source realtime backend in 1 file</div>
@@ -3045,7 +3045,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2022, 13:42:03 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 7 Nov 2022, 14:38:40 (timezone Asia/Colombo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
