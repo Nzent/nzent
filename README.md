@@ -31,9 +31,8 @@ src="https://img.shields.io/twitter/follow/nirvanz96?logo=twitter&style=for-the-
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<div style="display: flex; justify-content: center; gap: 10px;"> 
 <a href="http://www.github.com/Nzent"><img src="https://github-readme-stats.vercel.app/api?username=Nzent&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nzent's GitHub stats" /></a>
 
 <a href="http://www.github.com/Nzent"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nzent&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Nzent" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzent&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
