@@ -1,14 +1,29 @@
-Hi my name is Nisal ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==============================================================================================================================
+# Hi, I'm Nisal Keerthisinghe 👋
 
-### Visit my site 👉 https://nisalk.dev
+Senior Software Engineer with 5+ years of expertise in building scalable web and mobile applications.  
+I specialize in full‑stack development, cloud architecture, and optimizing development workflows to deliver high‑quality solutions.
 
-# 💫 About Me:
-BSc. (Hons) Software Engineering | React/Node.js Full-Stack Developer | Passionate about crafting innovative web solutions using the latest JavaScript technologies.
+## 🛠 Tech Stack
 
+- **Languages:** JavaScript, TypeScript, PHP
+- **Frontend:** NextJS, React, TailwindCSS, Flutter, Zustand
+- **Backend:** Node.js, ExpressJS
+- **Cloud & DevOps:** AWS (EC2, S3, Route 53, Amplify), Supabase, Vercel, Docker, GitHub Actions
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools:** Git, Jira, DirectUS CMS, GraphQL/Hygraph
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisalk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nisalk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nirvanz96) 
+## 📈 Highlights
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- Led AWS architecture re‑engineering, reducing operational costs by 20%
+- Built and deployed automated CI/CD pipelines using Docker and GitHub Actions
+- Developed mobile‑responsive full‑stack applications with modern JavaScript frameworks
+- Experienced in team collaboration, performance optimization, and aligning tech with business goals
+
+## 📫 Connect
+
+- 📧 Email: nirvanzentinal@gmail.com  
+- 🌐 Portfolio: nisalk.dev  
+- 📍 Based in Gampaha, Sri Lanka
+---
+
+*"Focused on innovation, clean architecture, and delivering value through technology."*
